@@ -1,0 +1,11 @@
+course_id,course_name,category,instructor,duration_hours,price_usd,level
+C001,Python for Beginners,Programming,Dr. Alice Martin,20,49.99,Beginner
+C002,Data Analysis with Pandas,Data Science,Prof. Bob Chen,30,79.99,Intermediate
+C003,Machine Learning Fundamentals,Data Science,Dr. Alice Martin,40,99.99,Intermediate
+C004,Web Development with React,Web Dev,Mr. James Lee,35,89.99,Intermediate
+C005,SQL & Database Design,Database,Prof. Sara Kim,25,59.99,Beginner
+C006,Deep Learning with TensorFlow,Data Science,Dr. Alice Martin,50,129.99,Advanced
+C007,JavaScript Essentials,Programming,Mr. James Lee,18,44.99,Beginner
+C008,Cloud Computing AWS,Cloud,Ms. Priya Patel,30,109.99,Intermediate
+C009,Cybersecurity Basics,Security,Prof. Bob Chen,22,69.99,Beginner
+C010,Data Visualization with Tableau,Data Science,Ms. Priya Patel,20,74.99,Intermediate

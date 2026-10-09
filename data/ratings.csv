@@ -1,0 +1,201 @@
+rating_id,learner_id,course_id,rating,review_date,review_text
+R001,L015,C001,5,2023-10-09,"Outstanding content, exceeded my expectations!"
+R002,L029,C003,5,2023-04-15,"Absolutely loved it, worth every minute!"
+R003,L012,C010,4,2023-02-02,"Good course, learned a lot."
+R004,L012,C004,3,2024-06-01,Fair course overall.
+R005,L004,C009,3,2024-03-05,"Average content, nothing special."
+R006,L058,C010,4,2023-01-07,Well structured and easy to follow.
+R007,L055,C006,4,2023-06-09,Well structured and easy to follow.
+R008,L044,C002,2,2024-01-25,"Below average, needs a lot of improvement."
+R009,L046,C006,5,2023-09-28,"Excellent course, highly recommend!"
+R010,L059,C009,3,2024-01-23,"Decent course, covers the basics."
+R011,L071,C005,5,2024-01-06,"Absolutely loved it, worth every minute!"
+R012,L025,C002,2,2023-08-22,Not worth the effort.
+R013,L011,C004,2,2024-01-25,Not worth the effort.
+R014,L059,C006,3,2024-01-15,Okay for beginners but lacks depth.
+R015,L027,C005,5,2023-03-15,"Absolutely loved it, worth every minute!"
+R016,L022,C009,5,2023-09-08,"Outstanding content, exceeded my expectations!"
+R017,L060,C007,4,2023-08-13,Solid content with practical examples.
+R018,L008,C004,1,2023-11-20,"Waste of time, content is outdated."
+R019,L035,C002,3,2023-11-19,"Average content, nothing special."
+R020,L064,C007,5,2024-04-14,"Outstanding content, exceeded my expectations!"
+R021,L034,C003,3,2023-09-27,Fair course overall.
+R022,L055,C010,4,2024-01-06,Well structured and easy to follow.
+R023,L018,C009,4,2023-04-04,"Good course, learned a lot."
+R024,L015,C003,5,2023-06-13,Fantastic instructor and very clear explanations.
+R025,L077,C002,4,2024-01-26,Would recommend to others looking to learn this topic.
+R026,L060,C009,3,2023-01-12,"Decent course, covers the basics."
+R027,L069,C005,5,2023-12-15,"Excellent course, highly recommend!"
+R028,L038,C007,3,2024-04-09,"Decent course, covers the basics."
+R029,L034,C009,5,2023-07-02,"Absolutely loved it, worth every minute!"
+R030,L014,C005,5,2024-06-03,"Absolutely loved it, worth every minute!"
+R031,L026,C003,4,2023-06-15,Would recommend to others looking to learn this topic.
+R032,L068,C001,5,2023-11-28,Fantastic instructor and very clear explanations.
+R033,L003,C002,4,2023-11-11,Well structured and easy to follow.
+R034,L008,C004,5,2023-03-22,"Excellent course, highly recommend!"
+R035,L063,C002,5,2024-06-29,"Outstanding content, exceeded my expectations!"
+R036,L017,C008,5,2023-06-19,Best course I have taken on this subject.
+R037,L068,C010,4,2023-08-05,Would recommend to others looking to learn this topic.
+R038,L026,C005,4,2024-01-18,Very informative and well presented.
+R039,L067,C008,3,2023-09-11,"Average content, nothing special."
+R040,L009,C006,1,2023-08-24,Poor quality material and explanations.
+R041,L029,C001,2,2023-03-02,Some content was useful but mostly lacking.
+R042,L009,C001,4,2023-03-14,Would recommend to others looking to learn this topic.
+R043,L031,C005,5,2024-05-12,"Outstanding content, exceeded my expectations!"
+R044,L070,C003,5,2024-04-29,"Outstanding content, exceeded my expectations!"
+R045,L061,C007,3,2023-04-07,"Decent course, covers the basics."
+R046,L056,C006,4,2024-02-25,Very informative and well presented.
+R047,L007,C002,2,2024-02-17,Not worth the effort.
+R048,L014,C004,3,2023-07-14,Fair course overall.
+R049,L058,C003,4,2023-07-07,Solid content with practical examples.
+R050,L060,C004,2,2024-03-29,"Mediocre course, expected much more."
+R051,L013,C001,5,2023-01-16,"Excellent course, highly recommend!"
+R052,L031,C003,4,2024-05-12,Very informative and well presented.
+R053,L028,C007,2,2023-06-18,Instructor explanations were unclear.
+R054,L001,C007,4,2024-04-10,Solid content with practical examples.
+R055,L055,C009,5,2024-05-13,"Outstanding content, exceeded my expectations!"
+R056,L025,C005,3,2023-03-01,Fair course overall.
+R057,L070,C001,5,2023-11-18,"Excellent course, highly recommend!"
+R058,L007,C010,4,2024-05-29,Would recommend to others looking to learn this topic.
+R059,L021,C001,4,2023-03-24,Well structured and easy to follow.
+R060,L009,C010,2,2023-08-29,Instructor explanations were unclear.
+R061,L016,C010,3,2023-02-10,Fair course overall.
+R062,L011,C007,5,2024-06-19,Best course I have taken on this subject.
+R063,L034,C004,5,2023-11-18,"Outstanding content, exceeded my expectations!"
+R064,L034,C007,3,2023-11-04,Some good points but could be better organized.
+R065,L041,C002,1,2024-04-14,Poor quality material and explanations.
+R066,L073,C002,2,2023-08-07,"Mediocre course, expected much more."
+R067,L034,C003,4,2023-03-12,Well structured and easy to follow.
+R068,L048,C005,3,2024-03-24,Fair course overall.
+R069,L039,C010,5,2024-06-25,"Excellent course, highly recommend!"
+R070,L071,C005,5,2023-04-17,"Outstanding content, exceeded my expectations!"
+R071,L034,C002,3,2023-06-09,Okay for beginners but lacks depth.
+R072,L037,C010,3,2023-12-18,"Average content, nothing special."
+R073,L034,C009,4,2023-09-15,"Good course, learned a lot."
+R074,L012,C007,4,2023-02-15,"Good course, learned a lot."
+R075,L043,C003,5,2023-09-26,"Outstanding content, exceeded my expectations!"
+R076,L057,C009,5,2024-03-13,"Absolutely loved it, worth every minute!"
+R077,L002,C002,2,2023-06-02,"Mediocre course, expected much more."
+R078,L005,C006,5,2023-06-01,Fantastic instructor and very clear explanations.
+R079,L017,C001,4,2024-01-09,"Good course, learned a lot."
+R080,L046,C004,5,2023-09-13,"Excellent course, highly recommend!"
+R081,L046,C009,4,2023-06-08,Well structured and easy to follow.
+R082,L021,C003,4,2023-01-26,Well structured and easy to follow.
+R083,L043,C007,5,2023-09-12,Best course I have taken on this subject.
+R084,L021,C002,4,2023-02-09,Very informative and well presented.
+R085,L029,C004,4,2023-12-25,Solid content with practical examples.
+R086,L030,C004,1,2023-07-17,"Waste of time, content is outdated."
+R087,L043,C005,2,2023-10-13,Not worth the effort.
+R088,L066,C007,5,2023-12-06,"Excellent course, highly recommend!"
+R089,L015,C005,3,2023-09-29,"Decent course, covers the basics."
+R090,L014,C010,4,2023-12-20,Solid content with practical examples.
+R091,L056,C010,4,2023-04-29,Very informative and well presented.
+R092,L074,C004,3,2023-02-15,Some good points but could be better organized.
+R093,L001,C009,4,2023-07-21,Solid content with practical examples.
+R094,L056,C002,5,2023-12-05,"Absolutely loved it, worth every minute!"
+R095,L041,C002,5,2023-11-04,"Absolutely loved it, worth every minute!"
+R096,L040,C007,4,2024-02-17,Solid content with practical examples.
+R097,L071,C003,3,2024-03-06,Some good points but could be better organized.
+R098,L023,C010,5,2023-11-05,Fantastic instructor and very clear explanations.
+R099,L071,C001,4,2023-10-21,Well structured and easy to follow.
+R100,L056,C010,5,2023-11-26,Fantastic instructor and very clear explanations.
+R101,L057,C008,5,2023-08-07,"Absolutely loved it, worth every minute!"
+R102,L061,C003,5,2023-03-28,Best course I have taken on this subject.
+R103,L066,C010,4,2023-04-06,Well structured and easy to follow.
+R104,L040,C004,3,2023-05-31,"Decent course, covers the basics."
+R105,L006,C004,4,2023-03-16,Very informative and well presented.
+R106,L054,C010,3,2024-01-29,Some good points but could be better organized.
+R107,L052,C004,3,2023-01-06,"Decent course, covers the basics."
+R108,L055,C004,3,2024-06-14,Some good points but could be better organized.
+R109,L007,C009,3,2023-05-05,Some good points but could be better organized.
+R110,L018,C008,5,2024-06-27,"Absolutely loved it, worth every minute!"
+R111,L077,C006,5,2024-03-29,"Absolutely loved it, worth every minute!"
+R112,L065,C007,5,2024-04-01,"Outstanding content, exceeded my expectations!"
+R113,L061,C008,4,2023-09-11,Solid content with practical examples.
+R114,L067,C008,5,2023-09-02,Best course I have taken on this subject.
+R115,L057,C002,5,2023-10-20,"Outstanding content, exceeded my expectations!"
+R116,L035,C006,4,2023-03-24,Well structured and easy to follow.
+R117,L020,C004,4,2023-06-06,Well structured and easy to follow.
+R118,L009,C007,4,2023-12-05,Would recommend to others looking to learn this topic.
+R119,L060,C007,2,2023-07-31,Instructor explanations were unclear.
+R120,L050,C010,5,2023-01-21,"Absolutely loved it, worth every minute!"
+R121,L049,C008,1,2023-12-27,Did not meet my expectations.
+R122,L050,C007,4,2023-08-14,Very informative and well presented.
+R123,L029,C005,4,2024-05-12,"Good course, learned a lot."
+R124,L050,C006,5,2024-02-19,"Outstanding content, exceeded my expectations!"
+R125,L060,C003,5,2024-06-30,"Excellent course, highly recommend!"
+R126,L051,C010,5,2023-01-28,"Excellent course, highly recommend!"
+R127,L055,C003,4,2023-07-06,"Good course, learned a lot."
+R128,L034,C007,4,2023-08-05,Very informative and well presented.
+R129,L042,C006,5,2024-01-24,Best course I have taken on this subject.
+R130,L054,C005,2,2024-04-26,"Below average, needs a lot of improvement."
+R131,L070,C001,4,2023-08-18,"Good course, learned a lot."
+R132,L006,C001,3,2023-07-24,"Decent course, covers the basics."
+R133,L080,C003,3,2023-05-10,Some good points but could be better organized.
+R134,L015,C010,3,2024-04-21,Okay for beginners but lacks depth.
+R135,L048,C003,5,2023-04-28,"Outstanding content, exceeded my expectations!"
+R136,L040,C002,5,2023-01-27,Best course I have taken on this subject.
+R137,L074,C007,4,2023-07-23,"Good course, learned a lot."
+R138,L076,C004,3,2023-11-05,Fair course overall.
+R139,L016,C010,2,2023-12-22,"Mediocre course, expected much more."
+R140,L055,C006,2,2024-06-02,Not worth the effort.
+R141,L002,C007,4,2023-04-19,Very informative and well presented.
+R142,L047,C008,5,2023-06-06,Fantastic instructor and very clear explanations.
+R143,L023,C009,5,2023-10-04,"Absolutely loved it, worth every minute!"
+R144,L069,C008,4,2024-03-22,Would recommend to others looking to learn this topic.
+R145,L035,C006,3,2023-03-30,Okay for beginners but lacks depth.
+R146,L058,C004,5,2024-04-20,"Absolutely loved it, worth every minute!"
+R147,L079,C007,4,2023-01-30,Very informative and well presented.
+R148,L042,C003,4,2023-08-06,Solid content with practical examples.
+R149,L034,C006,4,2023-10-10,Would recommend to others looking to learn this topic.
+R150,L002,C009,3,2023-03-29,"Average content, nothing special."
+R151,L053,C008,5,2023-09-04,Fantastic instructor and very clear explanations.
+R152,L063,C008,1,2023-04-06,Did not meet my expectations.
+R153,L029,C007,5,2023-09-07,Best course I have taken on this subject.
+R154,L075,C006,4,2024-06-27,Solid content with practical examples.
+R155,L055,C009,4,2023-12-27,Very informative and well presented.
+R156,L035,C005,3,2023-08-25,"Decent course, covers the basics."
+R157,L025,C006,3,2023-07-09,"Average content, nothing special."
+R158,L028,C008,4,2024-06-21,Would recommend to others looking to learn this topic.
+R159,L037,C002,3,2023-10-31,"Average content, nothing special."
+R160,L047,C003,4,2023-01-15,Would recommend to others looking to learn this topic.
+R161,L017,C005,2,2023-02-25,"Mediocre course, expected much more."
+R162,L038,C003,5,2024-05-17,"Excellent course, highly recommend!"
+R163,L002,C010,4,2024-04-25,Very informative and well presented.
+R164,L057,C006,3,2023-02-22,Okay for beginners but lacks depth.
+R165,L062,C002,2,2024-02-15,Instructor explanations were unclear.
+R166,L010,C010,5,2023-02-24,"Outstanding content, exceeded my expectations!"
+R167,L020,C010,4,2023-03-29,Well structured and easy to follow.
+R168,L016,C009,5,2024-03-02,"Absolutely loved it, worth every minute!"
+R169,L077,C010,3,2024-06-19,Some good points but could be better organized.
+R170,L058,C008,4,2024-03-15,Solid content with practical examples.
+R171,L073,C010,2,2023-04-12,Some content was useful but mostly lacking.
+R172,L028,C005,5,2023-03-25,"Outstanding content, exceeded my expectations!"
+R173,L031,C003,5,2023-03-18,"Outstanding content, exceeded my expectations!"
+R174,L001,C007,4,2024-04-26,Solid content with practical examples.
+R175,L005,C004,4,2023-10-17,Very informative and well presented.
+R176,L010,C004,4,2023-07-22,Very informative and well presented.
+R177,L015,C009,3,2023-06-02,Okay for beginners but lacks depth.
+R178,L019,C002,2,2023-06-19,Not worth the effort.
+R179,L077,C010,4,2024-03-25,"Good course, learned a lot."
+R180,L060,C005,5,2024-02-17,Best course I have taken on this subject.
+R181,L065,C009,4,2024-03-24,"Good course, learned a lot."
+R182,L077,C001,4,2023-11-27,Would recommend to others looking to learn this topic.
+R183,L033,C001,2,2023-08-23,"Mediocre course, expected much more."
+R184,L076,C001,5,2023-10-03,"Absolutely loved it, worth every minute!"
+R185,L006,C003,4,2024-06-15,Very informative and well presented.
+R186,L036,C003,5,2024-03-22,Fantastic instructor and very clear explanations.
+R187,L012,C008,4,2024-02-23,Solid content with practical examples.
+R188,L042,C002,3,2023-12-04,Some good points but could be better organized.
+R189,L064,C005,5,2024-02-15,"Absolutely loved it, worth every minute!"
+R190,L005,C008,2,2023-11-19,Not worth the effort.
+R191,L042,C002,5,2024-02-18,"Absolutely loved it, worth every minute!"
+R192,L001,C009,4,2024-02-28,"Good course, learned a lot."
+R193,L025,C009,4,2024-05-25,Very informative and well presented.
+R194,L007,C004,4,2023-05-15,Solid content with practical examples.
+R195,L057,C008,3,2023-01-30,Fair course overall.
+R196,L031,C003,4,2023-01-15,Would recommend to others looking to learn this topic.
+R197,L053,C002,3,2023-04-27,Some good points but could be better organized.
+R198,L016,C003,4,2023-10-26,Would recommend to others looking to learn this topic.
+R199,L035,C007,4,2024-04-28,Well structured and easy to follow.
+R200,L059,C009,3,2024-01-28,"Average content, nothing special."
